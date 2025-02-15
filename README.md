@@ -1,14 +1,14 @@
-# Ansh & Riley Full-Stack Template
+# Full-Stack AI Template
 
-This is a full-stack template project for Software Composers to create  applications with AI.
+A modern full-stack template project for creating AI-powered applications.
 
 ## Getting started
-To create a new project, you go to `/paths`, choose from our list of Paths, and then use Cursor's Composer feature to quickly scaffold your project!
+To create a new project, explore the `/paths` directory to find different project templates, then use them to quickly scaffold your project!
 
-You can also edit the Path's prompt template to be whatever you like!
+You can customize the Path's prompt template to suit your needs.
 
 ## Technologies used
-This doesn't really matter, but is useful for the AI to understand more about this project. We are using the following technologies
+This project uses the following technologies:
 - React with Next.js 14 App Router
 - TailwindCSS
 - Firebase Auth, Storage, and Database
