@@ -22,6 +22,23 @@ npm run dev
 
 The page will automatically update as you make changes to the code.
 
+## Preview
+When you start the development server, you'll see output similar to this:
+```bash
+> next dev
+  ▲ Next.js 14.2.7
+  - Local:        http://localhost:3000
+ ✓ Starting...
+ ✓ Ready in 2.2s
+ ✓ Compiled / in 1725ms (529 modules)
+```
+
+This indicates that:
+- The Next.js server is running
+- Your local development URL is http://localhost:3000
+- The initial compilation is complete
+- The application is ready to use
+
 ## Technologies used
 This project uses the following technologies:
 - React with Next.js 14 App Router
